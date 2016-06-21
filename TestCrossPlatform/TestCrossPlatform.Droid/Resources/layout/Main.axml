@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/PCLButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PCL Save" />
+    <Button
+        android:id="@+id/SharedButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shared Save" />
+    <Button
+        android:id="@+id/PCLInterfaceButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PCL Interface Save" />
+</LinearLayout>
